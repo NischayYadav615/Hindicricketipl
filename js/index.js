@@ -1,5 +1,5 @@
 jwplayer("my-video").setup({
-	file: "videoURL",
+	file: "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1010424/master.m3u8",
 	image: "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1010424/master.m3u8",
 	primary: "html5",
 	advertising: {
